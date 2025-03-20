@@ -1,0 +1,51 @@
+/* Basic page setup */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #f4f4f4;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background: #FF6347;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Section styling */
+section {
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Menu styling */
+#menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+#menu li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Contact styling */
+#contact p {
+    margin: 5px 0;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #FF6347;
+    color: white;
+}
